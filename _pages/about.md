@@ -9,14 +9,10 @@ redirect_from:
 ---
 
 
-Welcome !
+Welcome to my page!
 ======
 
-1. World record keeper of falling asleep
-1. Very professional of getting cold feet
-1. Have a noble dream of killing all the enemies across the ocean
-
-Nice to meet you, my name is Yifei.
+Hi, I am a master’s student (by student) at the Department of Communications and New Media, National University of Singapore (NUS). Prior to NUS, I graduated from Cornell University with a B.S. I have been interested in public opinion and political communication. The issues that really concern me also drive my academic pursuits, including identity politics, polarization, the China-US relationship, and climate change. Concerning methodologies, I would like to use quantitative methods to interpret this complex social world. Aside from academia, sports and old music really ease my nerve. Big fan of Arsenal and Lakers.
 
 
 

@@ -17,10 +17,12 @@ Education
   * Advisor: Jonathon Schuldt
   * Honor Thesis: "'Implanted Labels': Google Searches and Global Warming Beliefs"(Research Honors)
 
-* M.A.(by research) in National University of Singapore, 2023 (expected)
+* M.A. (by research) in National University of Singapore, 2023 (expected)
+  * Advisor: Kokil Jaidka
+  * Master's Thesis: TBD
 
 
-Work experience
+Awards
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -47,13 +49,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.presentations %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Research Experience
 ======
   <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}

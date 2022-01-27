@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+
+* B.S. in Cornell University, 2021 (Magna Cum Laude)
+  * Advisor: Jonathon Schuldt
+  * Honor Thesis: "'Implanted Labels': Google Searches and Global Warming Beliefs"(Research Honors)
+
+* M.A.(by research) in National University of Singapore, 2023 (expected)
+
 
 Work experience
 ======

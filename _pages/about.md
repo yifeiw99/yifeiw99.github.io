@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yifei's Personal Website"
+title: "Yifei Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+
 Welcome !
 ======
 
-I want to take over the world.
-------
+1. World record keeper of falling asleep
+1. Very professional of getting cold feet
+1. Have a noble dream of killing all the enemies across the ocean
+
+Nice to meet you, my name is Yifei.
+
 
 
 

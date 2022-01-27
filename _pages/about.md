@@ -12,11 +12,11 @@ redirect_from:
 Welcome to my page!
 ======
 
-Hi, I am a master’s student (by student) at the Department of Communications and New Media, National University of Singapore (NUS). Prior to NUS, I graduated from Cornell University with a B.S. I have been interested in public opinion and political communication. 
+Hi, I am a master’s student (by research) at the Department of Communications and New Media, National University of Singapore (NUS). Prior to NUS, I graduated from Cornell University with a B.S. My research interests are public opinion and political communication. 
 
-The issues that really concern me also drive my academic pursuits, including identity politics, polarization, the China-US relationship, and climate change. Concerning methodologies, I would like to use quantitative methods to interpret this complex social world. 
+The issues that concern me also drive my academic pursuits, including identity politics, group polarization, the China-US relationship, and climate change. Concerning methodologies, I use computational and quantitative approaches to interpret this complex societal world. 
 
-Aside from academia, sports and old music really ease my nerve. Big fan of Arsenal and Lakers.
+Aside from academia, sports and old music can really ease my nerve. I am a big fan of Arsenal (Wenger is my favorite manager) and Lakers (Due to LBJ).
 
 
 

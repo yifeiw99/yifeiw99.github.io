@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to my page!
+Welcome to my page! This is my [CV](https://yifeiw99.github.io/files/CV.pdf).
 ======
 
 Hi, I am a master’s student (by research) at the Department of Communications and New Media, National University of Singapore (NUS). Prior to NUS, I graduated from Cornell University with a B.S. My research interests are public opinion and political communication. 

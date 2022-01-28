@@ -11,7 +11,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 
 * Status:
-Under Review
+Journal of Broadcasting & Electronic Media (Under Review)
 
 * Authors: 
 Saifuddin Ahmed; Yifei Wang; Melissa Tully

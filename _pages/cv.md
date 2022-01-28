@@ -22,45 +22,50 @@ Education
   * Master's Thesis: TBD
 
 
+Workshops
+======
+* Nov.2021-Jan.2022: CACTUS Workshop (Computational Analysis for Communication on Text, User-generated con- tent, and Social networks)
+  * Instructor: Asst.Prof. Kokil Jaidka
+  * course link: https://github.com/kj2013/CACTUS_fall2021
+  * course content: API, data collection, textual analysis, sentiment analysis, topic modeling, time series analysis
+
+* Oct.2021-Nov.2021: Emerging Scholars of Media and Politics (ESMP 21-22)
+  * Advisor: Assoc.Prof. Drew Margolin
+  * Proposal Title: “Clash of Climate Change Discourse Between the US and China: Global Climate Governance from a Hegemonic Perspective”
+  * Program Committee: Dr. Deen Freelon, Dr. Sarah J. Jackson, Dr. Daniel Kreiss, Dr. Charlton Mcllwain, Dr. Patrica Moy, Dr. Dhavan Shah, Dr. Stuart Soroka, Dr. Talia Stroud
+
+
 Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May. 2021: Research Honors
+– College of Agriculture and Life Sciences, Cornell University
+* May. 2021: Certificate for Finalist in Humanities
+– Cornell Undergraduate Research Board
+* May. 2020: Schwartz Scholarship
+– College of Agriculture and Life Sciences, Cornell University
+* Jan. 2020: Dean’s List
+– College of Agriculture and Life Sciences, Cornell University
+* Dec. 2018: 1st Prize Academic Scholarship
+– China Agricultural University
+* Dec. 2018: Outstanding Student Scholarship
+– China Agricultural University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Presentations
-======
-  <ul>{% for post in site.presentations %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Research Experience
-======
-  <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Coding Skills:
+  * SPSS: Advanced
+  * Python: Fluent
+  * R: Fluent
+  * Gephi: Fluent
+  * SQL: Intermediate
+  * Tableau: Elementary
+  * Excel (Macro, VBA): Intermediate
+  * AWS: Elementary
+  * LaTex: Intermediate
+
+* Language Skills:
+  * Chinese: Native
+  * Englaish: Advanced
+  * Japanese: Elementary

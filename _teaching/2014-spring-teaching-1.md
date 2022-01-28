@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Research experience 1"
 collection: research
 type: "Undergraduate course"
 permalink: /research/2014-spring-research-1
@@ -8,7 +8,6 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a research experience. You can use markdown like any other post.
 
 Heading 1
 ======

@@ -11,8 +11,6 @@ redirect_from:
 
 Welcome to my homepage! 
 
-======
-
 Hi, I am a master’s student (by research) at the Department of Communications and New Media, National University of Singapore (NUS). Prior to NUS, I graduated from Cornell University with a B.S. My research interests are public opinion and political communication. 
 
 The issues that concern me also drive my academic pursuits, including identity politics, group polarization, the China-US relationship, and climate change. Concerning methodologies, I use computational and quantitative approaches to interpret this complex societal world. 

@@ -1,6 +1,6 @@
 ---
 title: "Nationwide Adoption of Digital Contact Tracing App: Examining the Role of Privacy Concern, Political Trust, and Technology Literacy"
-collection: publications
+# collection: publications
 # permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is under review.'
 # date: 2010-10-01

@@ -11,8 +11,6 @@ redirect_from:
 
 Education
 ======
-
-
 * B.S. in Cornell University, 2021 (Magna Cum Laude)
   * Advisor: Jonathon Schuldt
   * Honor Thesis: "'Implanted Labels': Google Searches and Global Warming Beliefs"(Research Honors)
@@ -54,7 +52,7 @@ Awards
 Skills
 ======
 
-* Coding Skills:
+* Computer Skills:
   * SPSS: Advanced
   * Python: Fluent
   * R: Fluent

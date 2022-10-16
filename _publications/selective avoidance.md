@@ -3,8 +3,8 @@ title: "Selective Avoidance as a Cognitive Response: Examining the political use
 # collection: publications
 # permalink: /publication/2022-paper-title-number-3
 excerpt: 'This paper is under revise & resubmit at Behaviour & Information Technology.'
-# date: 2022
-# venue: 'Behaviour & Information Technology'
+date: 2022-11-15
+venue: 'Behaviour & Information Technology'
 
 ---
 Status:

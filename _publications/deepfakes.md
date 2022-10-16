@@ -3,7 +3,7 @@ title: "Adjusting news accuracy perceptions after deepfakes exposure: Evidence f
 # collection: publications
 # permalink: /publication/2022-paper-title-number-5
 excerpt: 'This paper is under review at Personality and Individual Differences.'
-date: 1926-08-17
+date: 2022-05-30
 venue: 'Personality and Individual Differences '
 
 ---

@@ -3,8 +3,8 @@ title: "Confirmation Bias in Seeking Climate Information: Employing Relative Sea
 # collection: publications
 # permalink: /publication/2022-paper-title-number-2
 excerpt: 'This paper is under revise & resubmit at Social Science Computer Review.'
-# date: 2022
-# venue: 'Social Science Computer Review'
+date: 2022-07-31
+venue: 'Social Science Computer Review'
 
 ---
 Status:

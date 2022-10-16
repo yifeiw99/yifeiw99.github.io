@@ -2,9 +2,9 @@
 title: "Nationwide Adoption of Digital Contact Tracing App: Examining the Role of Privacy Concern, Political Trust, and Technology Literacy"
 # collection: publications
 # permalink: /publication/2022-07-01-paper-title-number-1
-excerpt: 'This paper is published in the journal of Communication Studies.'
-# date: 2022-07-01
-# venue: 'Communication Studies'
+excerpt: 'This paper is published in Communication Studies.'
+date: 2022-07-01
+venue: 'Communication Studies'
 # paperurl: 'https://www.tandfonline.com/doi/full/10.1080/10510974.2022.2094982'
 # citation: 'Wang, Y., Nigen, A., and Ahmed, S. (2022). Nationwide Adoption of Digital Contact Tracing App: Examining the Role of Privacy Concern, Political Trust, and Technology Literacy. Communication Studies, 73(4), 364-379. https://doi.org/10.1080/10510974.2022.2094982'
 ---

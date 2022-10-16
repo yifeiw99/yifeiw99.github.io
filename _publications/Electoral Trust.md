@@ -2,9 +2,9 @@
 title: "Can Political Engagement Erode Electoral Trust? Examining the Relationship between Online Political Participation and Trust in Electoral Integrity during the 2020 US Presidential Election"
 # collection: publications
 # permalink: /publication/2022-paper-title-number-4
-excerpt: 'This paper is under review at Online Information Review.'
-# date: 2022
-# venue: 'Online Information Review '
+excerpt: 'This paper is under review.'
+date: 2022-05-30
+venue: 'Online Information Review '
 
 ---
 

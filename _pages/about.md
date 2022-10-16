@@ -13,10 +13,10 @@ Hi, welcome to my homepage!
 
 I am a master’s student (by research) at the Department of Communications and New Media, National University of Singapore (NUS). Prior to NUS, I graduated from Cornell University with a B.S. in Communication. My research interests are political communication and comm & tech.
  
-My academic interest centers around identity and public opinion. Who we are, who others think we are, and how does that influence our processing of information and perceiving social relationships? The issues that baffled me also drove my intellectual curiosity and academic pursuits, including identity politics, group polarization, the China-US relationship, and climate change. My previous research projects examined public opinion (e.g., affective polarization and climate politics), mediated human behaviors (e.g., information seeking and selective avoidance), and the public cognition of emerging technologies (e.g., digital contact tracing and deepfakes).
+My academic interest centers around identity and public opinion. The issues that baffled me also drove my intellectual curiosity and academic pursuits, including identity politics, group polarization, the China-US relationship, and climate change. My previous research projects examined public opinion (e.g., affective polarization and climate politics), mediated human behaviors (e.g., information seeking and selective avoidance), and the public cognition of emerging technologies (e.g., digital contact tracing and deepfakes).
  
  
-Concerning methodologies, I am a quantitative researcher seeking to fathom human behaviors via massive digital traces emerging across communication platforms. I am interested in leveraging computational methods to explore the sociopsychological mechanisms beneath behavioral patterns and triangulating digital trace data through a combination with traditional quantitative methods, including surveys and experiments.
+Concerning methodologies, I am a quantitative researcher seeking to fathom human behaviors via massive digital traces emerging across communication platforms. I am interested in leveraging computational methods to explore the sociopsychological mechanisms beneath behavioral patterns and triangulating digital trace data through traditional quantitative methods, including surveys and experiments.
 
 
 

@@ -9,13 +9,16 @@ redirect_from:
 ---
 
 
-Welcome to my homepage! 
+Hi, welcome to my homepage! 
 
-Hi, I am a master’s student (by research) at the Department of Communications and New Media, National University of Singapore (NUS). Prior to NUS, I graduated from Cornell University with a B.S. My research interests are public opinion and political communication. 
+I am a master’s student (by research) at the Department of Communications and New Media, National University of Singapore (NUS). Prior to NUS, I graduated from Cornell University with a B.S. in Communication. My research interests are political communication and comm & tech.
+ 
+My academic interest centers around identity and public opinion. Who we are, who others think we are, and how does that influence our processing of information and perceiving social relationships? The issues that baffled me also drove my intellectual curiosity and academic pursuits, including identity politics, group polarization, the China-US relationship, and climate change. My previous research projects examined public opinion (e.g., affective polarization and climate politics), mediated human behaviors (e.g., information seeking and selective avoidance), and the public cognition of emerging technologies (e.g., digital contact tracing and deepfakes).
+ 
+ 
+Concerning methodologies, I am a quantitative researcher seeking to fathom human behaviors via massive digital traces emerging across communication platforms. I am interested in leveraging computational methods to explore the sociopsychological mechanisms beneath behavioral patterns and triangulating digital trace data through a combination with traditional quantitative methods, including surveys and experiments.
 
-The issues that concern me also drive my academic pursuits, including identity politics, group polarization, the China-US relationship, and climate change. Concerning methodologies, I use computational and quantitative approaches to interpret this complex societal world. 
 
-Aside from academia, sports and old music can really ease my nerve. I am a big fan of Arsenal (Wenger is my favorite manager) and Lakers (Due to LBJ).
 
 Here is my [CV](https://yifeiw99.github.io/files/CV.pdf) (pdf).
 

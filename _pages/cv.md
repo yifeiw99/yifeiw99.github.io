@@ -22,6 +22,16 @@ Education
 
 Workshops
 ======
+* Aug.2022-Present: MITx Statistics and Data Science MicroMasters Program
+  * Institution: MIT Institute for Data, Systems, and Society (IDSS)
+  * Courses: Probability, Statistics, Machine Learning, Statistical Modeling
+
+* Jun.2022: SICSS Singapore 2022 (The Summer Institute in Computational Social Science)
+  * Content: ethics of computational social science, collecting digital trace data, text analysis, online experiment, social network analysis
+  * Project: Examining the turnover contagion of ”leaving academia” on social media
+  * Team Member: Catalina Udani, Gerard Yeo, Rakoon Piyanontalee, Tianyu He
+  * Responsibilities: data collection (scraping Twitter data using API); data analysis (text analysis, social network analysis); proposal writing; project presentation
+
 * Nov.2021-Jan.2022: CACTUS Workshop (Computational Analysis for Communication on Text, User-generated con- tent, and Social networks)
   * Instructor: Asst.Prof. Kokil Jaidka
   * course link: https://github.com/kj2013/CACTUS_fall2021
@@ -32,38 +42,70 @@ Workshops
   * Proposal Title: “Clash of Climate Change Discourse Between the US and China: Global Climate Governance from a Hegemonic Perspective”
   * Program Committee: Dr. Deen Freelon, Dr. Sarah J. Jackson, Dr. Daniel Kreiss, Dr. Charlton Mcllwain, Dr. Patrica Moy, Dr. Dhavan Shah, Dr. Stuart Soroka, Dr. Talia Stroud
 
-
-Awards
-======
-* May. 2021: Research Honors
-– College of Agriculture and Life Sciences, Cornell University
-* May. 2021: Certificate for Finalist in Humanities
-– Cornell Undergraduate Research Board
-* May. 2020: Schwartz Scholarship
-– College of Agriculture and Life Sciences, Cornell University
-* Jan. 2020: Dean’s List
-– College of Agriculture and Life Sciences, Cornell University
-* Dec. 2018: 1st Prize Academic Scholarship
-– China Agricultural University
-* Dec. 2018: Outstanding Student Scholarship
-– China Agricultural University
-
-
 Skills
 ======
 
-* Computer Skills:
-  * SPSS: Advanced
-  * Python: Fluent
-  * R: Fluent
-  * Gephi: Fluent
-  * SQL: Intermediate
-  * Tableau: Elementary
-  * Excel (Macro, VBA): Intermediate
-  * AWS: Elementary
-  * LaTex: Intermediate
+* Computer Skills: Python, R, SQL (MySQL)
+* Computer Tools: Gephi, Tableau, Excel (Macro, VBA), LaTex (Overleaf)
+* Language Skills: Chinese (native), English (advanced/bilingual)
 
-* Language Skills:
-  * Chinese: Native
-  * Englaish: Advanced
-  * Japanese: Elementary
+Awards/Honors
+======
+* May. 2022: Top Paper (First Place) in the Political Communication Division (PLCD)
+– the 105th Annual Association for Education in Journalism and Mass Communication (AEJMC) Conference
+
+* May. 2021: Certificate for Finalist in Humanities
+– Cornell Undergraduate Research Board
+
+* May. 2021: Research Honors
+– College of Agriculture and Life Sciences, Cornell University
+
+* Jan. 2020: Dean’s List
+– College of Agriculture and Life Sciences, Cornell University
+
+* Dec. 2018: Excellent Student Scholarship
+– China Agricultural University
+
+
+Grants/Scholarships
+======
+
+* Aug.2022-Present: Graduate Teaching Fellowship
+– SGD $1800 (Around USD $1300) per month
+– Department of Communications and New Media, National University of Singapore
+
+* Nov.2022: Graduate Conference Funding
+– SGD $1500 (Around USD $1000)
+– National University of Singapore & Ministry of Education, Academic Research Fund
+
+* Aug.2021-May.2022: Student Work Scheme Stipends
+– SGD $2500 (Around USD $1800)
+– National University of Singapore
+
+* Aug. 2022: AEJMC PLCD Travel Grant
+– USD $100
+– Association for Education in Journalism and Mass Communication
+
+
+* May. 2022: ICA Preconference (Digital Asia) Travel Grant
+– USD $500
+– International Communication Association (ICA)
+
+* May. 2022: ICA Michael Haley Travel Grant
+– USD $1000
+– International Communication Association (ICA)
+
+
+* May. 2020: Schwartz Scholarship
+– USD $1700
+– Department of Communication, College of Agriculture and Life Sciences, Cornell University
+
+
+* May. 2020: Undergraduate Summer Internship Grant
+– USD $1500
+– Department of Communication, College of Agriculture and Life Sciences, Cornell University
+
+
+* Dec. 2018: 1st Prize Academic Scholarship
+– CNY ¥7000 (Around USD $1000)
+- China Agricultural University

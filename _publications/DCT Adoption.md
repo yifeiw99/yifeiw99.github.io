@@ -9,7 +9,7 @@ venue: 'Communication Studies'
 # citation: 'Wang, Y., Nigen, A., and Ahmed, S. (2022). Nationwide Adoption of Digital Contact Tracing App: Examining the Role of Privacy Concern, Political Trust, and Technology Literacy. Communication Studies, 73(4), 364-379. https://doi.org/10.1080/10510974.2022.2094982'
 ---
 Status:
-Communication Studies (Published)
+Published
 
 Authors: 
 Yifei Wang; Annabel Ngien; Saifuddin Ahmed

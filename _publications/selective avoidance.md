@@ -8,7 +8,7 @@ venue: 'Behaviour & Information Technology'
 
 ---
 Status:
-Behaviour & Information Technology (Revise & Resubmit)
+Revise & Resubmit
 
 Authors: 
 Yifei Wang; Saifuddin Ahmed; Adeline Bee Wei Ting.

@@ -8,7 +8,7 @@ venue: 'Social Science Computer Review'
 
 ---
 Status:
-Social Science Computer Review (Revise & Resubmit)
+Revise & Resubmit
 
 Authors: 
 Yifei Wang; Kokil Jaidka

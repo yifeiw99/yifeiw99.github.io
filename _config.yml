@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yifei Wang"
   avatar           : "profile.jpg"
-  bio              : " Master’s student (by research) at National University of Singapore" 
+  bio              : "Master’s student (by research) at National University of Singapore" 
   location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=tbxeL34AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
